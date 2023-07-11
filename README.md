@@ -5,7 +5,8 @@ This is a Python script that uses `yt-dlp` to download MP3 audio from YouTube vi
 ## Prerequisites
 
 - Python 3.x
-- `yt-dlp` (a fork of `youtube-dl`) installed and added to the system path. You can download `yt-dlp` from [here](https://github.com/yt-dlp/yt-dlp).
+- `yt-dlp` is available in the folder 
+- `ffmpeg` make sure to unizp this .exe file after using the script
 
 ## Usage
 
